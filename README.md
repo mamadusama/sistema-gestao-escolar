@@ -10,6 +10,16 @@ O projeto está sendo desenvolvido com uma stack moderna, utilizando **React**, 
 
 ---
 
+## Estrutura do Projeto
+
+> A estrutura do projeto está sendo discutida e será definida com a ajuda da comunidade. Se você tiver sugestões, contribua abrindo uma issue ou participando das nossas reuniões de desenvolvimento.
+
+### Estrutura planejada:
+- **Backend**: Node.js, Express, PostgreSQL
+- **Frontend**: React, Next.js, TailwindCSS
+- **Mobile**: React Native com Expo
+
+
 ## Funcionalidades da Versão Inicial (MVP)
 
 1. **Autenticação e Controle de Acesso**: 
