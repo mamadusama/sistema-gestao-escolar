@@ -159,5 +159,9 @@ Se você tiver dúvidas, sugestões ou quiser conversar sobre o projeto, fique �
 
 Junte-se ao nosso time e ajude a construir um sistema de gestão escolar completo e open-source! 🚀
 
+## Comunidade no Discord 
+
+entre na nossa comunidade [no Discord](https://discord.gg/abhjuExh) lá postamos conteúdos e desáfios para você resolver e também descutimos projetos futuras e  presente.
+
 Agradecimentos
 Obrigado a todos os colaboradores que estão tornando esse projeto possível!
