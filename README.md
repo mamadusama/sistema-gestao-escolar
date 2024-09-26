@@ -138,7 +138,7 @@ Se você encontrar bugs ou tiver sugestões de melhoria, abra uma issue no GitHu
 3. Descreva o problema ou sugestão de forma clara, adicionando prints ou logs quando necessário.
 
 ## Código de Conduta
-Por favor, leia o Código de Conduta para garantir que o ambiente de colaboração seja inclusivo e respeitoso para todos os participantes.
+Por favor, leia o  [Código de Conduta](./CODE_OF_CONDUCT.md) para garantir que o ambiente de colaboração seja inclusivo e respeitoso para todos os participantes.
 
 
 ## Licença
